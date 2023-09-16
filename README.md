@@ -7,4 +7,8 @@
 ![image](https://github.com/fiter1221/tugasbasda/assets/145202407/ebb814ba-bf74-4932-95eb-ce40636cd03c)
 ![image](https://github.com/fiter1221/tugasbasda/assets/145202407/3953e76f-052e-4baa-b75b-19147d5ec7f5)
   Tabel "cs" ini mungkin digunakan untuk menyimpan informasi tentang customer service dalam suatu organisasi atau entitas. Kolom "Id_cs" sebagai primary key memastikan bahwa setiap entri dalam tabel memiliki identifikasi unik, sementara kolom "Id_direktur" sebagai foreign key memungkinkan untuk menghubungkan setiap customer service dengan direktur yang bersangkutan, menciptakan hubungan antar tabel yang berguna dalam basis data yang lebih besar.Dengan tabel ini, Anda dapat melacak informasi tentang customer service, hubungan mereka dengan direktur, dan detail personal seperti nama mereka.
-  
+# tabel nasabah
+![image](https://github.com/fiter1221/tugasbasda/assets/145202407/114a2ca8-f31e-499c-827f-04c664b7b036)
+![image](https://github.com/fiter1221/tugasbasda/assets/145202407/1147b91a-0846-4c3c-a509-357cb8389053)
+  Tabel "nasabah" ini mungkin digunakan untuk menyimpan informasi tentang nasabah dalam suatu lembaga keuangan, seperti bank. Kolom "No_rek" sebagai primary key memastikan bahwa setiap entri dalam tabel memiliki identifikasi unik. Kolom "Id_cs" sebagai foreign key memungkinkan untuk menghubungkan nasabah dengan customer service yang melayani mereka, sementara kolom lainnya berisi detail tentang nasabah seperti nama, status pernikahan, pekerjaan, nomor KTP, dan tanggal lahir.
+# tabel teller 
